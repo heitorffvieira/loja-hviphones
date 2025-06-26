@@ -105,6 +105,8 @@ function App() {
           </div>
         </section>
 
+        <br />
+
         <section className="acessorios">
           <div className="itens-shop">
             {produtos.slice(4).map(produto => (
